@@ -1,0 +1,15 @@
+C:\Proyectos\Capas\mdpGestion\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+C:\Proyectos\Capas\mdpGestion\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Proyectos\Capas\mdpGestion\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+C:\Proyectos\Capas\mdpGestion\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Proyectos\Capas\mdpGestion\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Proyectos\Capas\mdpGestion\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Proyectos\Capas\mdpGestion\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Proyectos\Capas\mdpGestion\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Proyectos\Capas\mdpGestion\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Proyectos\Capas\mdpGestion\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Proyectos\Capas\mdpGestion\CapaDatos\bin\Debug\CapaEntidades.xml
+C:\Proyectos\Capas\mdpGestion\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Proyectos\Capas\mdpGestion\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Proyectos\Capas\mdpGestion\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Proyectos\Capas\mdpGestion\CapaDatos\obj\Debug\CapaDatos.pdb

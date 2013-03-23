@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="93907b4e2f934a318c7050b8138a98a8" Name="Diagram1">
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.Articulos" Width="1.5" PointX="11.25" PointY="41.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ArticulosCantidades" Width="1.5" PointX="24.75" PointY="48.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ArticulosImagenes" Width="1.5" PointX="13.5" PointY="40.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ArticulosOnline" Width="1.5" PointX="9" PointY="24.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ArticulosOnlineDetalle" Width="1.5" PointX="11.25" PointY="37.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ArticulosPerfiles" Width="1.5" PointX="9" PointY="37.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ArticulosPreciosCosto" Width="1.5" PointX="13.5" PointY="44.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ArticulosPreciosVenta" Width="1.5" PointX="13.5" PointY="34.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.Bancos" Width="1.5" PointX="15" PointY="80.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.CajaCierres" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.CajaMovimientos" Width="1.5" PointX="19.25" PointY="63.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.Clientes" Width="1.5" PointX="3" PointY="51" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ClientesCtasCtes" Width="1.5" PointX="7.5" PointY="58.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ClientesNumerosCtasCtes" Width="1.5" PointX="5.25" PointY="58.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ComprobantesCobros" Width="1.5" PointX="9.75" PointY="58.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ComprobantesCobrosDetalle" Width="1.5" PointX="12" PointY="58.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ComprobantesEmitidos" Width="1.5" PointX="14.75" PointY="56.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ComprobantesEmitidosDetalle" Width="1.5" PointX="22" PointY="50.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ComprobantesEmitidosVencimientos" Width="1.5" PointX="17" PointY="62" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ComprobantesPagos" Width="1.5" PointX="12.75" PointY="70.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ComprobantesPagosDetalle" Width="1.5" PointX="15" PointY="70.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ComprobantesPedidosRecibidos" Width="1.5" PointX="11.25" PointY="52" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ComprobantesPedidosRecibidosDetalle" Width="1.5" PointX="19.5" PointY="51.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ComprobantesPresupuestosEmitidos" Width="1.5" PointX="8.25" PointY="46" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ComprobantesPresupuestosEmitidosDetalle" Width="1.5" PointX="16.5" PointY="44.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ComprobantesRecibidos" Width="1.5" PointX="17.75" PointY="69" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ComprobantesRecibidosDetalle" Width="1.5" PointX="20" PointY="56.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ComprobantesRecibidosVencimientos" Width="1.5" PointX="20" PointY="70.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ComprobantesRemitosEmitidos" Width="1.5" PointX="14.25" PointY="50.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ComprobantesRemitosEmitidosDetalle" Width="1.5" PointX="19.5" PointY="47.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ComprobantesRemitosRecibidos" Width="1.5" PointX="17.25" PointY="51.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ComprobantesRemitosRecibidosDetalle" Width="1.5" PointX="22.5" PointY="46" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.CondicionesIva" Width="1.5" PointX="0.75" PointY="52.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.CondicionesPago" Width="1.5" PointX="0.75" PointY="56.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ConfiguracionFactura" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ConfiguracionNotaCredito" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ConfiguracionOrdenPago" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ConfiguracionPedido" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ConfiguracionPresupuesto" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ConfiguracionRecibo" Width="1.5" PointX="12.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ConfiguracionRemito" Width="1.5" PointX="14.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ControladoresFiscales" Width="1.5" PointX="1.5" PointY="45.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ControladoresFiscalesComprobantes" Width="1.5" PointX="3.75" PointY="37.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.Depositos" Width="1.5" PointX="22.5" PointY="55.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.DetalleChequesEmitidos" Width="1.5" PointX="20.25" PointY="74.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.DetalleChequesRecibidos" Width="1.5" PointX="17.25" PointY="57.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.DetalleCobrosBancos" Width="1.5" PointX="14.25" PointY="65.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.DetalleCobrosTarjetas" Width="1.5" PointX="14.25" PointY="75.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.DetallePagosBancos" Width="1.5" PointX="17.25" PointY="76.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.Empresa" Width="1.5" PointX="3" PointY="59.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.Escalas1" Width="1.5" PointX="9" PointY="41.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.Escalas2" Width="1.5" PointX="9" PointY="34.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.FormasPago" Width="1.5" PointX="9.75" PointY="74.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.Localidades" Width="1.5" PointX="0.75" PointY="64.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.Proveedores" Width="1.5" PointX="6" PointY="51.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ProveedoresCtasCtes" Width="1.5" PointX="10.5" PointY="70.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.ProveedoresNumerosCtasCtes" Width="1.5" PointX="8.25" PointY="70.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.Provincias" Width="1.5" PointX="1.5" PointY="69" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.Rubros" Width="1.5" PointX="6.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.Señas" Width="1.5" PointX="17" PointY="65.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.SubRubros" Width="1.5" PointX="9" PointY="30.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.Talonarios" Width="1.5" PointX="3.75" PointY="44.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.TasasIVACompras" Width="1.5" PointX="9" PointY="62.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.TasasIVAVentas" Width="1.5" PointX="9" PointY="64.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.TiposComprobantes" Width="1.5" PointX="6" PointY="47.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.TiposMovimientos" Width="1.5" PointX="17" PointY="49" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.Transportes" Width="1.5" PointX="9" PointY="51.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.Usuarios" Width="1.5" PointX="6" PointY="39.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.UsuariosPerfiles" Width="1.5" PointX="3.75" PointY="40.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.UsuariosPerfilesConfiguracion" Width="1.5" PointX="6" PointY="35.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="mdpGestionEMPRESAModelo.Vendedores" Width="1.5" PointX="6" PointY="62.25" IsExpanded="true" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Articulos_ArticulosPerfiles" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Articulos_Escalas1" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Articulos_Escalas2" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Articulos_Proveedores" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Articulos_SubRubros" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Articulos_TasasIVACompras" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Articulos_TasasIVAVentas" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ArticulosCantidades_Articulos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ArticulosCostos_Articulos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ArticulosImagenes_Articulos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ArticulosPreciosVenta_Articulos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesEmitidosDetalle_Articulos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesPedidosRecibidosDetalle_Articulos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesPresupuestosEmitidosDetalle_Articulos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesRecibidosDetalle_Articulos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesRemitosEmitidosDetalle_Articulos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesRemitosRecibidosDetalle_Articulos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ArticulosCantidades_ComprobantesEmitidosDetalle" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ArticulosCantidades_ComprobantesRecibidosDetalle" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ArticulosCantidades_ComprobantesRemitosEmitidosDetalle" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ArticulosCantidades_ComprobantesRemitosRecibidosDetalle" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ArticulosStockDepositos_Depositos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ArticulosOnline_SubRubros" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ArticulosOnlineDetalle_ArticulosOnline" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ArticulosOnlineDetalle_Escalas1" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ArticulosOnlineDetalle_Escalas2" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_DetalleChequesEmitidos_Bancos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_DetalleChequesRecibidos_Bancos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_CajaMovimientos_ComprobantesCobrosDetalle" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_CajaMovimientos_ComprobantesPagosDetalle" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_CajaMovimientos_TiposMovimientos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Movimientos_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Clientes_CondicionesIva" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Clientes_CondicionesPago" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Clientes_Localidades" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Clientes_Transportes" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ClientesNumerosCtasCtes_Clientes" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesPedidosRecibidos_Clientes" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesPresupuestosEmitidos_Clientes" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesRemitosEmitidos_Clientes" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ClientesCtasCtes_ClientesNumerosCtasCtes" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesCobros_ClientesCtasCtes" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesEmitidos_ClientesCtasCtes" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesCobrosDetalle_ComprobantesCobros" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ChequesRecibidos_ComprobantesCobrosDetalle" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesCobrosDetalle_FormasPago" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_DetalleCobrosBancos_ComprobantesCobrosDetalle" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_DetalleCobrosTarjetas_ComprobantesCobrosDetalle" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesEmitidos_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesEmitidos_Vendedores" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesEmitidosDetalle_ComprobantesEmitidos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesEmitidosVencimientos_ComprobantesEmitidos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Señas_ComprobantesEmitidos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesPagos_ProveedoresCtasCtes" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesPagosDetalle_ComprobantesPagos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesPagosDetalle_FormasPago" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_DetalleChequesEmitidos_ComprobantesPagosDetalle" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_DetallePagosBancos_ComprobantesPagosDetalle" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesPedidosRecibidos_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesPedidosRecibidos_Vendedores" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesPedidosRecibidosDetalle_ComprobantesPedidosRecibidos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesPresupuestosEmitidos_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesPresupuestosEmitidos_Vendedores" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesPresupuestosEmitidosDetalle_ComprobantesPresupuestosEmitidos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesRecibidos_ProveedoresCtasCtes" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesRecibidos_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesRecibidosDetalle_ComprobantesRecibidos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesRecibidosVencimientos_ComprobantesRecibidos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesRemitosEmitidos_Transportes" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesRemitosEmitidos_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesRemitosEmitidos_Vendedores" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesRemitosEmitidosDetalle_ComprobantesRemitosEmitidos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesRemitosRecibidos_Proveedores" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesRemitosRecibidos_Transportes" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesRemitosRecibidos_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesRemitosRecibidos_Vendedores" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ComprobantesRemitosRecibidosDetalle_ComprobantesRemitosRecibidos" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Empresas_CondicionesIva" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Proveedores_CondicionesIva" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_TipoComprobante_CondicionesIva" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_TipoComprobante_CondicionesIva1" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Transportes_CondicionesIva" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Proveedores_CondicionesPago" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ControladoresFiscalesComprobantes_ControladoresFiscales" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Talonarios_ControladoresFiscales" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Localidades_Provincias" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Proveedores_Localidades" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Transportes_Localidades" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Vendedores_Localidades" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ProveedoresNumerosCtasCtes_Proveedores" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_ProveedoresCtasCtes_ProveedoresNumerosCtasCtes" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_SubRubros_Rubros" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_TiposComprobantes_Talonarios" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_Usuarios_UsuariosPerfiles" ManuallyRouted="false" />
+        <AssociationConnector Association="mdpGestionEMPRESAModelo.FK_UsuariosPerfilesConfiguracion_UsuariosPerfilesConfiguracion" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,17 @@
+C:\Proyectos\Capas\mdpGestion\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+C:\Proyectos\Capas\mdpGestion\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+C:\Proyectos\Capas\mdpGestion\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.xml
+C:\Proyectos\Capas\mdpGestion\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.Resources.resources
+C:\Proyectos\Capas\mdpGestion\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.vbproj.GenerateResource.Cache
+C:\Proyectos\Capas\mdpGestion\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+C:\Proyectos\Capas\mdpGestion\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.xml
+C:\Proyectos\Capas\mdpGestion\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb
+C:\Proyectos\Capas\mdpGestion\CapaLogicaNegocios\bin\Debug\CapaDatos.dll
+C:\Proyectos\Capas\mdpGestion\CapaLogicaNegocios\bin\Debug\CapaEntidades.dll
+C:\Proyectos\Capas\mdpGestion\CapaLogicaNegocios\bin\Debug\EntityFramework.dll
+C:\Proyectos\Capas\mdpGestion\CapaLogicaNegocios\bin\Debug\CapaDatos.pdb
+C:\Proyectos\Capas\mdpGestion\CapaLogicaNegocios\bin\Debug\CapaDatos.xml
+C:\Proyectos\Capas\mdpGestion\CapaLogicaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Proyectos\Capas\mdpGestion\CapaLogicaNegocios\bin\Debug\CapaEntidades.xml
+C:\Proyectos\Capas\mdpGestion\CapaLogicaNegocios\bin\Debug\EntityFramework.xml
+C:\Proyectos\Capas\mdpGestion\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Proyectos\Capas\mdpGestion\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Proyectos\Capas\mdpGestion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Proyectos\Capas\mdpGestion\CapaEntidades\bin\Debug\CapaEntidades.xml
+C:\Proyectos\Capas\mdpGestion\CapaEntidades\obj\Debug\CapaEntidades.Resources.resources
+C:\Proyectos\Capas\mdpGestion\CapaEntidades\obj\Debug\CapaEntidades.vbproj.GenerateResource.Cache
+C:\Proyectos\Capas\mdpGestion\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Proyectos\Capas\mdpGestion\CapaEntidades\obj\Debug\CapaEntidades.xml
+C:\Proyectos\Capas\mdpGestion\CapaEntidades\obj\Debug\CapaEntidades.pdb
