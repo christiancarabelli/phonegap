@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.mdpsoftware.app1"
+    version   = "1.0.0">
+
+<name>mdpSoftware app mobile</name>
+
+<description>
+Aplicacion mdpSoftware
+</description>
+<icon src= gap:platform="android" gap:density="ldpi" />
+<icon src="images/icon.png" gap:platform="android" gap:density="mdpi" />
+<icon src="images/icon.png" gap:platform="android" gap:density="hdpi" />
+<icon src="images/icon.png" gap:platform="android" gap:density="xhdpi" />
+<author href="https://www.mardelplatasoftware.com" email="c_carabelli@hotmail.com">
+Christian Carabelli
+</author>
+
+</widget>
